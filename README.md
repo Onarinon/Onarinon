@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Arın 👋
 
-<!--
-**Onarinon/Onarinon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Business Analyst | Project Manager | AI & Digital Products
 
-Here are some ideas to get you started:
+I connect business strategy, user needs, and technical execution to build meaningful digital products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My professional background spans AI-powered mobile applications, business analysis, project management, and manufacturing operations. I enjoy turning complex problems into clear requirements, actionable roadmaps, and structured delivery plans.
+
+## 🚀 Areas of Focus
+- Business Analysis & Requirements Engineering
+- Product Discovery & MVP Definition
+- Agile Project Management
+- User Stories & Acceptance Criteria
+- Stakeholder Management
+- Business Process Modeling & Optimization
+- AI-powered Digital Products
+
+## 🧩 Portfolio Projects
+
+| Project | Focus |
+|---|---|
+| AI Product Case Study | Discovery, MVP, user stories, roadmap |
+| Business Analysis Toolkit | BRD, process mapping, requirements |
+| SQL & Product Analytics | SQL, KPIs, product insights |
+
+*Portfolio projects are being developed and published.*
+
+## 🌍 Let's Connect
+I'm interested in international opportunities in Business Analysis, Project Management, and Product Ownership.
+
+Thanks for visiting my profile!
