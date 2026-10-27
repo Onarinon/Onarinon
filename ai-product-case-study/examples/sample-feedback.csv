@@ -1,0 +1,7 @@
+feedback_id,source_type,feedback_text
+F001,support,"I export feedback every Friday and manually group similar requests."
+F002,interview,"I reopen support tickets during planning to show where a summary came from."
+F003,survey,"Please keep the original feedback beside each theme."
+F004,support,"Grouping comments takes most of my weekly review session."
+F005,interview,"A frequent request is not always our highest priority."
+

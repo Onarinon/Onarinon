@@ -19,11 +19,11 @@ My professional background spans AI-powered mobile applications, business analys
 
 | Project | Focus |
 |---|---|
-| AI Product Case Study | Discovery, MVP, user stories, roadmap |
+| [AI Product Case Study](ai-product-case-study/README.md) | AI feedback synthesis: discovery, MVP, user stories, acceptance criteria, roadmap & metrics |
 | Business Analysis Toolkit | BRD, process mapping, requirements |
 | SQL & Product Analytics | SQL, KPIs, product insights |
 
-*Portfolio projects are being developed and published.*
+*The first portfolio case study is available as a concept and delivery plan. Additional projects are in development.*
 
 ## 🌍 Let's Connect
 I'm interested in international opportunities in Business Analysis, Project Management, and Product Ownership.
